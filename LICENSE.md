@@ -1,2 +1,1 @@
-
-Copyright (C) 2022 Vladik
+Copyright(C) 2022 Vladik
